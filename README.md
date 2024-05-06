@@ -1,2 +1,3 @@
 # gpt-vision
-demo of gpt vision model
+
+dummy demo of gpt vision model

@@ -1,0 +1,4 @@
+src/archive*
+src/__pycache__
+openai-env
+cases.md
